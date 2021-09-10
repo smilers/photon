@@ -5,7 +5,7 @@
     "serve": "docker exec -it photon jekyll serve --watch --host=0.0.0.0"
   },
   "dependencies": {
-    "photon-colors": "3.3.1"
+    "photon-colors": "3.3.2"
   },
   "devDependencies": {}
 }
